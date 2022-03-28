@@ -1,16 +1,20 @@
-### Hi there 👋
+### Olá eu sou a Carol Alves 👋
 
-<!--
-**Carolalves90/Carolalves90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Em transição de Carreira para area de tecnologia
+- 🌱 Estudando Back-end em Reprograma
+- 💬 Contato: prof.carolalves90@gmail.com
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/Carolalves90">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carolalves90&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carolalves90&layout=compact&langs_count=7&theme=jolly"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ##
+  
+  <div>
+    <a href="https://www.linkedin.com/in/caroline-alves-dos-santos-909b65211" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/cah_dog" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://web.facebook.com/Carolalves90" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  </div>
+  
