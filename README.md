@@ -1,7 +1,7 @@
 ### Olá eu sou a Carol Alves 👋
 
-- 🔭 Em transição de Carreira para área de tecnologia
-- 🌱 Estudando Back-end em Reprograma
+- 🔭 Em busca da minha primeira oportunidade na área de tecnologia
+- 🌱 Desenvolvedora Back-end formada pela [{Reprograma}](https://github.com/reprograma)
 
  ## 
 
