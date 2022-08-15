@@ -1,7 +1,8 @@
 ### Olá eu sou a Carol Alves 👋
 
 - 🔭 Em busca da minha primeira oportunidade na área de tecnologia
-- 🌱 Desenvolvedora Back-end formada pela [{Reprograma}](https://github.com/reprograma)
+- 🎓 Desenvolvedora Back-end formada pela [{Reprograma}](https://github.com/reprograma)
+- 🌱 Estudando novas linguagens 
 
  ## 
 
