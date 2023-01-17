@@ -2,7 +2,7 @@
 
 - 🔭 Em busca da minha primeira oportunidade na área de tecnologia
 - 🎓 Desenvolvedora Back-end formada pela [{Reprograma}](https://github.com/reprograma)
-- 🌱 Estudando novas linguagens 
+- 🌱 Estudando Front-end pela pela Alura em parceria com a Oracle 
 
  ## 
 
