@@ -4,7 +4,7 @@
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade [Descomplica](https://descomplica.com.br/faculdade/);
 - 👩‍🏫 Monitora voluntária em [{Reprograma}](https://github.com/reprograma);
 - 🎓 Desenvolvedora Back-end formada pela [{Reprograma}](https://github.com/reprograma);
-- 🎓 Formada em Desenvolvimento Front-end - Oracle Next Education pela [Alura](https://www.alura.com.br).
+- 🎓 Formada em Desenvolvimento Front-end | Oracle Next Education pela [Alura](https://www.alura.com.br).
 
  ## 
 
