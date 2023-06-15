@@ -2,8 +2,8 @@
 
 - 🔭 Em busca da minha primeira oportunidade na área de tecnologia
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Descomplica
-- 🌱 Estudante de Desenvolvimento Front-end pela Alura em parceria com a Oracle
-- 🎓 Desenvolvedora Back-end formada pela [{Reprograma}](https://github.com/reprograma) 
+- 🎓 Desenvolvedora Back-end formada pela [{Reprograma}](https://github.com/reprograma)
+- 🎓 Formada em Desenvolvimento Front-end - Oracle Next Education pela [Alura](https://www.alura.com.br)
 
  ## 
 
