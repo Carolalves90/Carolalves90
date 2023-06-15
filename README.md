@@ -1,9 +1,10 @@
 ### Olá eu sou a Carol Alves 👋
 
-- 🔭 Em busca da minha primeira oportunidade na área de tecnologia
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Descomplica
-- 🎓 Desenvolvedora Back-end formada pela [{Reprograma}](https://github.com/reprograma)
-- 🎓 Formada em Desenvolvimento Front-end - Oracle Next Education pela [Alura](https://www.alura.com.br)
+- 🔭 Em busca da minha primeira oportunidade na área de tecnologia;
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade [Descomplica](https://descomplica.com.br/faculdade/);
+- 👩‍🏫 Monitora voluntária em [{Reprograma}](https://github.com/reprograma);
+- 🎓 Desenvolvedora Back-end formada pela [{Reprograma}](https://github.com/reprograma);
+- 🎓 Formada em Desenvolvimento Front-end - Oracle Next Education pela [Alura](https://www.alura.com.br).
 
  ## 
 
