@@ -1,6 +1,6 @@
 ### Olá eu sou a Carol Alves 👋
 
-- 🔭 Em busca da minha primeira oportunidade na área de tecnologia;
+- 🔭 Estágiaria | Engenharia e Serviços ao Cliente B2B área de Modernização de Software na Vivo;
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade [Descomplica](https://descomplica.com.br/faculdade/);
 - 👩‍🏫 Monitora voluntária em [{Reprograma}](https://github.com/reprograma);
 - 🎓 Desenvolvedora Back-end formada pela [{Reprograma}](https://github.com/reprograma);
