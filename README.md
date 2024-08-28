@@ -1,6 +1,6 @@
 ### Olá eu sou a Carol Alves 👋
 
-- 🔭 Analista de Serviços ao Cliente | VP Engenharia e Serviços ao Cliente B2B na Vivo;
+- 🔭 Analista de Serviços ao Cliente | VP Engenharia e Serviços ao Cliente B2B na [Vivo](https://vivo.com.br/para-voce);
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade [Descomplica](https://descomplica.com.br/faculdade/);
 - 👩‍🏫 Monitora voluntária | Professora em [{Reprograma}](https://github.com/reprograma);
 - 🎓 Desenvolvedora Back-end formada pela [{Reprograma}](https://github.com/reprograma);
