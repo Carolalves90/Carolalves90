@@ -1,6 +1,6 @@
 ### Olá eu sou a Carol Alves 👋
 
-- 🔭 Estágiaria | Engenharia e Serviços ao Cliente B2B área de Modernização de Software na Vivo;
+- 🔭 Analista de Serviços ao Cliente | VP Engenharia e Serviços ao Cliente B2B na Vivo;
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade [Descomplica](https://descomplica.com.br/faculdade/);
 - 👩‍🏫 Monitora voluntária | Professora em [{Reprograma}](https://github.com/reprograma);
 - 🎓 Desenvolvedora Back-end formada pela [{Reprograma}](https://github.com/reprograma);
