@@ -1,9 +1,9 @@
 ### Olá eu sou a Carol Alves 👋
 
 - 🔭 Analista de Serviços ao Cliente | VP Engenharia e Serviços ao Cliente B2B na [Vivo](https://vivo.com.br/para-voce);
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade [Descomplica](https://descomplica.com.br/faculdade/);
+- 🎓 Formada em Análise e Desenvolvimento de Sistemas na Faculdade [Descomplica](https://descomplica.com.br/faculdade/);
 - 👩‍🏫 Dev Back-end | Monitora voluntária | Professora em [{Reprograma}](https://github.com/reprograma);
-- 🎓 Formada em Desenvolvimento Front-end | Oracle Next Education pela [Alura](https://www.alura.com.br).
+- 📚 Desenvolvimento Front-end | Oracle Next Education pela [Alura](https://www.alura.com.br).
 
  ## 
 
